@@ -1,6 +1,6 @@
 # README
 
-# ABOUT [Appletei / あっぷる亭](https://github.com/appletei/appletei/commit/appletei.com)
+# ABOUT [Appletei / あっぷる亭](http://appletei.com)
 
 - 👋 Hi, I’m @appletei
 
@@ -18,7 +18,7 @@
 - 💞️ I’m looking to collaborate on primarily looking to engage with the local community.
 
 
-- 📫 How to reach me [Appletei / あっぷる亭](https://github.com/appletei/appletei/commit/appletei.com)
+- 📫 How to reach me [Appletei / あっぷる亭](http://appletei.com)
 
 <!---
 appletei/appletei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
