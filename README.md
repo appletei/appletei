@@ -1,6 +1,6 @@
-README
+# README
 
-about appletei.com
+# ABOUT [Appletei / あっぷる亭](https://github.com/appletei/appletei/commit/appletei.com)
 
 - 👋 Hi, I’m @appletei
 - 
