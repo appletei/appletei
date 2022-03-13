@@ -1,3 +1,7 @@
+README
+
+about appletei.com
+
 - 👋 Hi, I’m @appletei
 - 
 - 👀 I’m interested in something fun.
